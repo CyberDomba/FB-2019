@@ -45,9 +45,9 @@ banner= C+p+"""
            |_| |_.__/|_|    @New Update 0.3
               
           [FBR Facebook Hacking Tool]
-        [@Created By Cabdualahi Sharif]      """+C+p+"""
-             Youtube Channel: Somali4You
-             Facebook: cabdulahi.sharif.100 ------------------------------------------"""
+        [@Created By Cyber Domba    ]      """+C+p+"""
+             Youtube Channel: Cyber Domba
+             Facebook: Fahri ------------------------------------------"""
 print banner
 me = (C+p+'[💡]Cabdulahi=>> ')
 oh= time.sleep(1)
